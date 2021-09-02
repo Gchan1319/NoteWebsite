@@ -1,0 +1,35 @@
+.card {
+  width: 50%;
+  float: left;
+  margin: 0;
+  height: 400px;
+}
+#makeNote {
+  width: auto;
+  position: fixed;
+  right: 40px;
+  bottom: 10%;
+  border-radius: 20px;
+  font-size: 40px;
+  opacity: 70%;
+  box-shadow: 0px 0px 6px #000;
+  background-color: skyblue;
+}
+#makeNote:hover {
+  background-color: #52ffc0;
+  color: auto;
+}
+.notes {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fff;
+  z-index: 99999;
+}
+#clearDiv {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
