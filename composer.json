@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": ">=7.2.0",
+        "php": "^7.2.0",
         "silex/silex": "~1.0@dev",
         "chh/cache-service-provider": "~1.0",
         "ext-libevent": "*",
