@@ -7,7 +7,7 @@ silahkan memenuhi persyaratan berikut:
 <br/>
 Persyaratan :
 <ul>
-<li>PHP SERVER (Apache dll)</li>
+<li>PHP SERVER (Apache, dll)</li>
 <li>PHP >= 8.0</li>
 <li>Browser (recommended Chrome)</li>
 </ul>
@@ -19,7 +19,7 @@ Meets the following requirements:
 <br/>
 requirements :
 <ul>
-<li>PHP SERVER (Apache dll)</li>
+<li>PHP SERVER (Apache, etc)</li>
 <li>PHP >= 8.0</li>
 <li>Browser (recommended Chrome)</li>
 </ul>
