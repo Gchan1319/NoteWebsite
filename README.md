@@ -1,10 +1,12 @@
 # NoteWebsite
+<br/>
 Id :
 Jika kalian ingin mencoba menggunakan nya silahkan memenuhi persyaratan berikut :
 Persyaratan :
 • PHP SERVER (Apache dll)
 • PHP >= 8.0
 • Browser tentunya
+<br/>
 En :
 If you want to try using it please
 Meets the following requirements :
